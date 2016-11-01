@@ -121,6 +121,12 @@
     <Content Include="css\jquery.bxslider.css" />
     <Content Include="css\moviecss.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="images\aa.jpg" />
+    <Content Include="images\ae.jpg" />
+    <Content Include="images\bb.jpg" />
+    <Content Include="images\cc.jpg" />
+    <Content Include="images\dd.jpg" />
+    <Content Include="images\ee.jpg" />
     <Content Include="index.html" />
     <Content Include="js\bootstrap.js" />
     <Content Include="js\bootstrap.min.js" />
@@ -136,9 +142,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="images\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
