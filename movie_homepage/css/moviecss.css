@@ -1,0 +1,69 @@
+﻿
+@media(min-width : 240px){
+
+   
+
+}
+
+@media(min-width : 480px){
+
+   
+
+}
+
+@media(min-width : 320px) {
+
+
+}
+
+@media(min-width:600px){
+           
+     
+}
+
+
+@media (min-width: 768px) {
+  
+    .bigimage
+    {
+        padding:0px;
+        margin:0px;
+    }
+    .jumbo {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-top: -20px;
+    height: 406px;
+    
+ }
+
+@media (min-width: 992px) {
+    .bigimage {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .jumbo {
+        padding-right: 0px;
+        padding-left: 0px;
+        margin-top: -20px;
+        height: 406px;
+    }
+}
+
+@media (min-width: 1200px) 
+{
+
+    .bigimage
+    {
+        padding:0px;
+        margin:0px;
+    }
+    .jumbo {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-top: -20px;
+    height: 406px;
+}
+     
+}
